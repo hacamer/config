@@ -1,0 +1,34 @@
+{
+  "createBy": "http://liujiacai.net/gooreplacer/",
+  "version": "3.12.1",
+  "createAt": "2021/10/2 下午1:30:46",
+  "redirect-rules": [
+    {
+      "src": "www.v2ex.com",
+      "kind": "regexp",
+      "dst": "v2ex.hacamer.ga",
+      "enable": true
+    },
+    {
+      "src": "raw.githubusercontent.com",
+      "kind": "wildcard",
+      "dst": "raw.githubusercontents.com",
+      "enable": true
+    },
+    {
+      "src": "lanzous.com",
+      "kind": "wildcard",
+      "dst": "lanzoui.com",
+      "enable": true
+    },
+    {
+      "src": "www.google.com/recaptcha",
+      "kind": "wildcard",
+      "dst": "recaptcha.net/recaptcha",
+      "enable": true
+    }
+  ],
+  "cancel-rules": [],
+  "request-headers": [],
+  "response-headers": []
+}
