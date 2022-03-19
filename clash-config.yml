@@ -176,8 +176,8 @@ dns:
     - 'https://i.233py.com/dns-query'
     - 'https://v.233py.com/dns-query'
     - 'https://dns.233py.com/dns-query'
-    - 'quic://x.passcloud.xyz:784'
-    - 'quic://c.passcloud.xyz:784'
+    - 'tls://x.passcloud.xyz:853'
+    - 'tls://c.passcloud.xyz:853'
   fallback:
     # -国内可用的 doh、dot 列表
     - 'https://public.dns.iij.jp/dns-query'
