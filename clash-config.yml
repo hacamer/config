@@ -167,6 +167,7 @@ dns:
     - 'stun.*.*'
     ## IQDNS MTPROXY
     - '*.iqdns.io'
+    - 'a.iqmtp.live'
   nameserver:
     #- 'https://doh.360.cn/dns-query'
     #- 'https://dns.alidns.com/dns-query'
