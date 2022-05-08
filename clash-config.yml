@@ -102,8 +102,8 @@ clash-for-android:
   append-system-dns: false
 dns:
   enable: true
-  listen: 0.0.0.0:53
-  ipv6: false
+  listen: 0.0.0.0:1053
+  ipv6: true
   enhanced-mode: redir-host
   fake-ip-range: 198.18.0.1/16
   use-hosts: true
