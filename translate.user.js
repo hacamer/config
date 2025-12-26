@@ -4635,31 +4635,23 @@ body {
     "translationServices.tencent": "\u817E\u8BAF\u7FFB\u8BD1\u541B",
     "translationServices.tenAlpha": "\u817E\u8BAF\u7FFB\u8BD1\u541B(Alpha)",
     "translationServices.google": "\u8C37\u6B4C\u7FFB\u8BD1",
-    "translationServices.bai": "\u767E\u5EA6(Alpha)",
-    "translationServices.baidu": "\u767E\u5EA6\u7FFB\u8BD1",
     "translationServices.aliyun": "\u963F\u91CC\u4E91\u7FFB\u8BD1",
-    "translationServices.volc": "\u706B\u5C71\u7FFB\u8BD1",
+
     "translationServices.deeplx": "DeeplX(Beta)",
     "translationServices.bing": "\u5FAE\u8F6F\u7FFB\u8BD1",
-    "translationServices.deepl": "Deepl",
     "translationServices.wechat": "\u5FAE\u4FE1\u7FFB\u8BD1",
-    "translationServices.azure": "Azure \u7FFB\u8BD1",
+
     "translationServices.ibm": "IBM Watson",
     "translationServices.aws": "\u4E9A\u9A6C\u900A\u7FFB\u8BD1",
     "translationServices.mock": "\u6A21\u62DF\u7FFB\u8BD1",
     "translationServices.mock2": "\u6A21\u62DF\u7FFB\u8BD12",
-    "translationServices.caiyun": "\u5F69\u4E91\u5C0F\u8BD1",
-    "translationServices.cai": "\u5F69\u4E91\u5C0F\u8BD1 (Alpha)",
-    "translationServices.volcAlpha": "\u706B\u5C71 (Alpha)",
-    "translationServices.openl": "OpenL",
-    "translationServices.youdao": "\u6709\u9053\u7FFB\u8BD1",
-    "translationServices.you": "\u6709\u9053\u7FFB\u8BD1 (Alpha)",
-    "translationServices.transmart": "\u817E\u8BAF\u4EA4\u4E92\u7FFB\u8BD1",
-    "translationServices.niu": "\u5C0F\u725B\u7FFB\u8BD1",
+
+
+
+
     "translationServices.papago": "Papago \u7FFB\u8BD1",
     "translationServices.d": "D (Alpha)",
     "translationServices.dpro": "D Pro (Canary)",
-    "translationServices.openai": "OpenAI",
     "translationServices.chatgpt": "ChatGPT Plus",
     "translate title": "\u7FFB\u8BD1\u9875\u9762\u6807\u9898",
     "always languages": "\u603B\u662F\u7FFB\u8BD1\u7684\u8BED\u8A00",
@@ -4929,31 +4921,20 @@ body {
     "translationServices.tencent": "\u9A30\u8A0A\u7FFB\u8B6F\u541B",
     "translationServices.tenAlpha": "\u9A30\u8A0A\u7FFB\u8B6F\u541B(Alpha)",
     "translationServices.google": "Google \u7FFB\u8B6F",
-    "translationServices.bai": "\u767E\u5EA6(Alpha)",
-    "translationServices.baidu": "\u767E\u5EA6\u7FFB\u8B6F",
     "translationServices.aliyun": "\u963F\u91CC\u96F2\u7FFB\u8B6F",
-    "translationServices.volc": "\u706B\u5C71\u7FFB\u8B6F",
     "translationServices.deeplx": "DeeplX(Beta)",
     "translationServices.bing": "\u5FAE\u8F6F\u7FFB\u8B6F",
-    "translationServices.deepl": "Deepl",
     "translationServices.wechat": "\u5FAE\u4FE1\u7FFB\u8B6F",
-    "translationServices.azure": "Azure \u7FFB\u8B6F",
+
     "translationServices.ibm": "IBM Watson",
     "translationServices.aws": "\u4E9E\u99AC\u905C\u7FFB\u8B6F",
     "translationServices.mock": "\u6A21\u64EC\u7FFB\u8B6F",
     "translationServices.mock2": "\u6A21\u64EC\u7FFB\u8B6F2",
-    "translationServices.caiyun": "\u5F69\u96F2\u5C0F\u8B6F",
-    "translationServices.cai": "\u5F69\u96F2\u5C0F\u8B6F (Alpha)",
-    "translationServices.volcAlpha": "\u706B\u5C71\u7FFB\u8B6F(Alpha)",
-    "translationServices.openl": "OpenL",
-    "translationServices.youdao": "\u6709\u9053\u7FFB\u8B6F",
-    "translationServices.you": "\u6709\u9053\u7FFB\u8B6F (Alpha)",
-    "translationServices.transmart": "\u9A30\u8A0A\u4EA4\u4E92\u7FFB\u8B6F",
-    "translationServices.niu": "\u5C0F\u725B\u7FFB\u8B6F",
+
+
     "translationServices.papago": "Papago \u7FFB\u8B6F",
     "translationServices.d": "Deepl(Alpha)",
     "translationServices.dpro": "D Pro (Canary)",
-    "translationServices.openai": "OpenAI",
     "translationServices.chatgpt": "ChatGPT Plus",
     "translate title": "\u7FFB\u8B6F\u9801\u9762\u6A19\u984C",
     "always languages": "\u7E3D\u662F\u7FFB\u8B6F\u7684\u8A9E\u8A00",
@@ -5218,31 +5199,19 @@ body {
     "translationServices.tencent": "Tencent Translator",
     "translationServices.tenAlpha": "Tencent Translator (Alpha)",
     "translationServices.google": "Google Translate",
-    "translationServices.bai": "Baidu (Alpha)",
-    "translationServices.baidu": "Baidu translation",
-    "translationServices.aliyun": "Aliyun Translator",
-    "translationServices.volc": "Volcano Translation",
     "translationServices.deeplx": "DeeplX (Alpha)",
     "translationServices.bing": "Microsoft Translator",
-    "translationServices.deepl": "DeepL",
     "translationServices.wechat": "Wechat translation",
-    "translationServices.azure": "Azure Translator",
+
     "translationServices.ibm": "IBM Watson",
     "translationServices.aws": "Amazon Translate",
     "translationServices.mock": "Mock translation",
     "translationServices.mock2": "Mock Translation2",
-    "translationServices.caiyun": "Caiyun Translation",
-    "translationServices.cai": "Caiyun Translation (Alpha)",
-    "translationServices.volcAlpha": "Volcano Translation (Alpha)",
-    "translationServices.openl": "OpenL",
-    "translationServices.youdao": "Youdao Translation",
-    "translationServices.you": "Youdao Translation (Alpha)",
-    "translationServices.transmart": "Tencent Smart Translation",
-    "translationServices.niu": "Niu Translation",
+
+
     "translationServices.papago": "Papago Translation",
     "translationServices.d": "DeeplX (Alpha)",
     "translationServices.dpro": "D Pro (Canary)",
-    "translationServices.openai": "OpenAI",
     "translationServices.chatgpt": "ChatGPT Plus",
     "translate title": "Translate page title",
     "always languages": "Always translate the following languages",
@@ -19993,58 +19962,7 @@ ${injectedCss}}
             )
           })
         ] }) : /* @__PURE__ */ p5("span", {}),
-        /* @__PURE__ */ p5(
-          SelectDropDown,
-          {
-            label: t4("more"),
-            showArrow: !0,
-            onSelected: (item) => {
-              item.value === "translateTheWholePage" ? onTranslateTheWholePage() : item.value === "translateToThePageEndImmediately" ? ontranslateToThePageEndImmediately() : item.value === "translateTheMainPage" ? onTranslateTheMainPage() : item.value === "showTranslationOnly" || (item.value === "translateLocalPdfFile" ? onTranslateLocalPdfFile && onTranslateLocalPdfFile() : item.value === "translateLocalHtmlFile" ? onTranslateLocalHtmlFile && onTranslateLocalHtmlFile() : item.value === "translateLocalSubtitleFile" ? onTranslateLocalSubtitleFile && onTranslateLocalSubtitleFile() : item.value === "donate" ? (globalThis.open(config.donateUrl), onClose()) : item.value === "feedback" ? (globalThis.open(config.feedbackUrl), onClose()) : item.value === "options" ? (openOptionsPage3(), onClose()) : item.value === "changeToTranslateTheWholePage" ? handleChangeToTranslateTheWholePage() : item.value === "changeToTranslateTheMainPage" ? handleChangeToTranslateTheMainPage() : item.value === "about" ? openAboutPage3() : item.value === "toggleEnabled" ? onToggleEnabled() : item.value === "openEbookViewer" ? openEbookViewerPage3() : item.value === "openEbookBuilder" && openEbookBuilderPage3());
-            },
-            menus: [
-              config.translationArea === "main" && {
-                label: "\u{1F480} " + t4("changeToTranslateTheWholePage"),
-                value: "changeToTranslateTheWholePage"
-              },
-              config.translationArea === "body" && {
-                label: "\u{1F4D6} " + t4("changeToTranslateTheMainPage"),
-                value: "changeToTranslateTheMainPage"
-              },
-              {
-                label: "\u26A1 " + translateToThePageEndImmediatelyLabel,
-                value: "translateToThePageEndImmediately"
-              },
-              {
-                label: "\u{1F4D8} " + t4("browser.openEbookViewer"),
-                value: "openEbookViewer"
-              },
-              {
-                label: "\u{1F4DA} " + t4("browser.openEbookBuilder"),
-                value: "openEbookBuilder"
-              },
-              !isMonkey() && {
-                label: "\u{1F4C1} " + t4("browser.translateLocalPdfFile"),
-                value: "translateLocalPdfFile"
-              },
-              !isMonkey() && {
-                label: "\u{1F310} " + t4("browser.translateLocalHtmlFile"),
-                value: "translateLocalHtmlFile"
-              },
-              {
-                label: "\u{1F4FA} " + t4("browser.translateLocalSubtitleFile"),
-                value: "translateLocalSubtitleFile"
-              },
-              {
-                label: (config.enabled ? "\u{1F6AB} " : "\u{1F44B} ") + (config.enabled ? t4("clickToDisableExtension") : t4("clickToEnableExtension")),
-                value: "toggleEnabled"
-              },
-              {
-                label: "\u2764\uFE0F " + t4(isShowPricing ? "aboutLabel" : "aboutLabelWithoutSponsor"),
-                value: "about"
-              }
-            ].filter(Boolean)
-          }
-        )
+        /* @__PURE__ */ p5("span", {})
       ] }),
       /* @__PURE__ */ p5("div", { class: "text-sm", children: message }),
       /* @__PURE__ */ p5("div", { class: "text-sm", children: errorMessage }),
@@ -20057,7 +19975,6 @@ ${injectedCss}}
           }
         ),
         /* @__PURE__ */ p5("div", { class: "mt-3 text-sm flex justify-between", children: [
-          /* @__PURE__ */ p5("a", { href: "#", class: "secondary", onClick: handleOpenOptions, children: t4("options") }),
           isMonkey() && /* @__PURE__ */ p5("a", { href: "#", class: "secondary", onClick: handleClosePopup, children: t4("close") }),
           /* @__PURE__ */ p5(
             "span",
