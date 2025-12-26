@@ -4635,31 +4635,23 @@ body {
     "translationServices.tencent": "\u817E\u8BAF\u7FFB\u8BD1\u541B",
     "translationServices.tenAlpha": "\u817E\u8BAF\u7FFB\u8BD1\u541B(Alpha)",
     "translationServices.google": "\u8C37\u6B4C\u7FFB\u8BD1",
-    "translationServices.bai": "\u767E\u5EA6(Alpha)",
-    "translationServices.baidu": "\u767E\u5EA6\u7FFB\u8BD1",
     "translationServices.aliyun": "\u963F\u91CC\u4E91\u7FFB\u8BD1",
-    "translationServices.volc": "\u706B\u5C71\u7FFB\u8BD1",
+
     "translationServices.deeplx": "DeeplX(Beta)",
     "translationServices.bing": "\u5FAE\u8F6F\u7FFB\u8BD1",
-    "translationServices.deepl": "Deepl",
     "translationServices.wechat": "\u5FAE\u4FE1\u7FFB\u8BD1",
-    "translationServices.azure": "Azure \u7FFB\u8BD1",
+
     "translationServices.ibm": "IBM Watson",
     "translationServices.aws": "\u4E9A\u9A6C\u900A\u7FFB\u8BD1",
     "translationServices.mock": "\u6A21\u62DF\u7FFB\u8BD1",
     "translationServices.mock2": "\u6A21\u62DF\u7FFB\u8BD12",
-    "translationServices.caiyun": "\u5F69\u4E91\u5C0F\u8BD1",
-    "translationServices.cai": "\u5F69\u4E91\u5C0F\u8BD1 (Alpha)",
-    "translationServices.volcAlpha": "\u706B\u5C71 (Alpha)",
-    "translationServices.openl": "OpenL",
-    "translationServices.youdao": "\u6709\u9053\u7FFB\u8BD1",
-    "translationServices.you": "\u6709\u9053\u7FFB\u8BD1 (Alpha)",
-    "translationServices.transmart": "\u817E\u8BAF\u4EA4\u4E92\u7FFB\u8BD1",
-    "translationServices.niu": "\u5C0F\u725B\u7FFB\u8BD1",
+
+
+
+
     "translationServices.papago": "Papago \u7FFB\u8BD1",
     "translationServices.d": "D (Alpha)",
     "translationServices.dpro": "D Pro (Canary)",
-    "translationServices.openai": "OpenAI",
     "translationServices.chatgpt": "ChatGPT Plus",
     "translate title": "\u7FFB\u8BD1\u9875\u9762\u6807\u9898",
     "always languages": "\u603B\u662F\u7FFB\u8BD1\u7684\u8BED\u8A00",
@@ -4929,31 +4921,20 @@ body {
     "translationServices.tencent": "\u9A30\u8A0A\u7FFB\u8B6F\u541B",
     "translationServices.tenAlpha": "\u9A30\u8A0A\u7FFB\u8B6F\u541B(Alpha)",
     "translationServices.google": "Google \u7FFB\u8B6F",
-    "translationServices.bai": "\u767E\u5EA6(Alpha)",
-    "translationServices.baidu": "\u767E\u5EA6\u7FFB\u8B6F",
     "translationServices.aliyun": "\u963F\u91CC\u96F2\u7FFB\u8B6F",
-    "translationServices.volc": "\u706B\u5C71\u7FFB\u8B6F",
     "translationServices.deeplx": "DeeplX(Beta)",
     "translationServices.bing": "\u5FAE\u8F6F\u7FFB\u8B6F",
-    "translationServices.deepl": "Deepl",
     "translationServices.wechat": "\u5FAE\u4FE1\u7FFB\u8B6F",
-    "translationServices.azure": "Azure \u7FFB\u8B6F",
+
     "translationServices.ibm": "IBM Watson",
     "translationServices.aws": "\u4E9E\u99AC\u905C\u7FFB\u8B6F",
     "translationServices.mock": "\u6A21\u64EC\u7FFB\u8B6F",
     "translationServices.mock2": "\u6A21\u64EC\u7FFB\u8B6F2",
-    "translationServices.caiyun": "\u5F69\u96F2\u5C0F\u8B6F",
-    "translationServices.cai": "\u5F69\u96F2\u5C0F\u8B6F (Alpha)",
-    "translationServices.volcAlpha": "\u706B\u5C71\u7FFB\u8B6F(Alpha)",
-    "translationServices.openl": "OpenL",
-    "translationServices.youdao": "\u6709\u9053\u7FFB\u8B6F",
-    "translationServices.you": "\u6709\u9053\u7FFB\u8B6F (Alpha)",
-    "translationServices.transmart": "\u9A30\u8A0A\u4EA4\u4E92\u7FFB\u8B6F",
-    "translationServices.niu": "\u5C0F\u725B\u7FFB\u8B6F",
+
+
     "translationServices.papago": "Papago \u7FFB\u8B6F",
     "translationServices.d": "Deepl(Alpha)",
     "translationServices.dpro": "D Pro (Canary)",
-    "translationServices.openai": "OpenAI",
     "translationServices.chatgpt": "ChatGPT Plus",
     "translate title": "\u7FFB\u8B6F\u9801\u9762\u6A19\u984C",
     "always languages": "\u7E3D\u662F\u7FFB\u8B6F\u7684\u8A9E\u8A00",
@@ -5218,31 +5199,19 @@ body {
     "translationServices.tencent": "Tencent Translator",
     "translationServices.tenAlpha": "Tencent Translator (Alpha)",
     "translationServices.google": "Google Translate",
-    "translationServices.bai": "Baidu (Alpha)",
-    "translationServices.baidu": "Baidu translation",
-    "translationServices.aliyun": "Aliyun Translator",
-    "translationServices.volc": "Volcano Translation",
     "translationServices.deeplx": "DeeplX (Alpha)",
     "translationServices.bing": "Microsoft Translator",
-    "translationServices.deepl": "DeepL",
     "translationServices.wechat": "Wechat translation",
-    "translationServices.azure": "Azure Translator",
+
     "translationServices.ibm": "IBM Watson",
     "translationServices.aws": "Amazon Translate",
     "translationServices.mock": "Mock translation",
     "translationServices.mock2": "Mock Translation2",
-    "translationServices.caiyun": "Caiyun Translation",
-    "translationServices.cai": "Caiyun Translation (Alpha)",
-    "translationServices.volcAlpha": "Volcano Translation (Alpha)",
-    "translationServices.openl": "OpenL",
-    "translationServices.youdao": "Youdao Translation",
-    "translationServices.you": "Youdao Translation (Alpha)",
-    "translationServices.transmart": "Tencent Smart Translation",
-    "translationServices.niu": "Niu Translation",
+
+
     "translationServices.papago": "Papago Translation",
     "translationServices.d": "DeeplX (Alpha)",
     "translationServices.dpro": "D Pro (Canary)",
-    "translationServices.openai": "OpenAI",
     "translationServices.chatgpt": "ChatGPT Plus",
     "translate title": "Translate page title",
     "always languages": "Always translate the following languages",
@@ -5732,20 +5701,12 @@ body {
       type: "select",
       name: "codename",
       labelKey: "field.translationEngine",
-      default: "youdao",
+      default: "google",
       required: !1,
       options: [
         {
           label: "translationServices.google",
           value: "google"
-        },
-        {
-          label: "translationServices.deepl",
-          value: "deepl"
-        },
-        {
-          label: "translationServices.youdao",
-          value: "youdao"
         },
         {
           label: "translationServices.tencent",
@@ -5756,24 +5717,12 @@ body {
           value: "aliyun"
         },
         {
-          label: "translationServices.baidu",
-          value: "baidu"
-        },
-        {
-          label: "translationServices.caiyun",
-          value: "caiyun"
-        },
-        {
           label: "translationServices.wechat",
           value: "wechat"
         },
         {
           label: "translationServices.ibm",
           value: "ibm"
-        },
-        {
-          label: "translationServices.azure",
-          value: "azure"
         },
         {
           label: "translationServices.aws",
@@ -5790,221 +5739,14 @@ body {
       name: "Google",
       homepage: "https://translate.google.com/"
     },
-    deepl: {
-      name: "DeepL",
-      homepage: "https://www.deepl.com/translator",
-      docUrl: "https://immersive-translate.owenyoung.com/services/deepL",
-      allProps: [
-        {
-          name: "authKey",
-          label: "Auth Key",
-          required: !0,
-          type: "password"
-        }
-      ]
-    },
     transmart: {
       name: "Transmart",
       homepage: "https://transmart.qq.com/"
-    },
-    openai: {
-      name: "Open AI",
-      homepage: "https://openai.com/api/",
-      docUrl: "https://immersive-translate.owenyoung.com/services/openai",
-      allProps: [
-        {
-          name: "APIKEY",
-          required: !0,
-          type: "password"
-        },
-        {
-          name: "model",
-          labelKey: "field.model",
-          descriptionKey: "description.model",
-          required: !1,
-          type: "select",
-          default: "gpt-3.5-turbo",
-          options: [
-            {
-              label: "gpt-3.5-turbo",
-              value: "gpt-3.5-turbo"
-            },
-            {
-              label: "gpt-4",
-              value: "gpt-4"
-            }
-          ]
-        },
-        {
-          name: "limit",
-          required: !1,
-          labelKey: "field.limitPerSecond",
-          descriptionKey: "description.limitPerSecond",
-          descriptionLink1: "https://immersive-translate.owenyoung.com/services/openai",
-          type: "number",
-          default: 5
-        },
-        {
-          name: "maxTextLengthPerRequest",
-          required: !1,
-          labelKey: "field.maxTextLengthPerRequest",
-          descriptionKey: "description.maxTextLengthPerRequest",
-          type: "number",
-          default: 1200,
-          optional: !0
-        },
-        {
-          name: "maxTextGroupLengthPerRequest",
-          required: !1,
-          labelKey: "field.maxTextGroupLengthPerRequest",
-          descriptionKey: "description.maxTextGroupLengthPerRequest",
-          type: "number",
-          default: 1,
-          optional: !0
-        },
-        {
-          name: "apiUrl",
-          labelKey: "field.apiUrl",
-          required: !1,
-          type: "text",
-          default: "https://api.openai.com/v1/chat/completions",
-          descriptionKey: "description.apiUrl",
-          optional: !0
-        },
-        {
-          name: "systemPrompt",
-          label: "System Prompt",
-          required: !1,
-          descriptionKey: "description.systemPrompt",
-          type: "text",
-          optional: !0,
-          default: "You are a translation engine, you can only translate text and cannot interpret it, and do not explain."
-        },
-        {
-          name: "prompt",
-          label: "Prompt",
-          required: !1,
-          descriptionKey: "description.prompt",
-          type: "textarea",
-          default: `Translate the text below to {{to}}:
-
-{{text}}`,
-          optional: !0
-        }
-      ]
-    },
-    chatgpt: {
-      name: "ChatGPT Plus",
-      homepage: "https://chat.openai.com",
-      beta: !0
-    },
-    youdao: {
-      name: "Youdao",
-      homepage: "https://immersive-translate.owenyoung.com/services/youdao",
-      docUrl: "https://immersive-translate.owenyoung.com/services/youdao",
-      allProps: [
-        {
-          name: "appId",
-          required: !0,
-          type: "text"
-        },
-        {
-          name: "appSecret",
-          required: !0,
-          type: "password"
-        }
-      ]
-    },
-    tencent: {
-      name: "Tencent",
-      homepage: "https://fanyi.qq.com/",
-      docUrl: "https://immersive-translate.owenyoung.com/services/tencent",
-      allProps: [
-        {
-          name: "secretId",
-          required: !0,
-          type: "text"
-        },
-        {
-          name: "secretKey",
-          required: !0,
-          type: "password"
-        }
-      ]
-    },
-    azure: {
-      name: "azure",
-      homepage: "https://learn.microsoft.com/en-us/azure/cognitive-services/translator/text-translation-overview",
-      docUrl: "https://immersive-translate.owenyoung.com/services/azure",
-      allProps: [
-        {
-          name: "region",
-          required: !0,
-          default: "eastasia",
-          type: "text"
-        },
-        {
-          name: "APIKEY",
-          required: !0,
-          type: "password"
-        }
-      ]
     },
     papago: {
       name: "Papago",
       homepage: "https://translate.google.com/",
       canary: !0
-    },
-    baidu: {
-      name: "Baidu",
-      homepage: "https://fanyi.baidu.com/",
-      docUrl: "https://immersive-translate.owenyoung.com/services/baidu",
-      allProps: [
-        {
-          name: "appid",
-          required: !0,
-          type: "text"
-        },
-        {
-          name: "key",
-          required: !0,
-          type: "password"
-        }
-      ]
-    },
-    volc: {
-      name: "Volc",
-      homepage: "https://www.volcengine.com/",
-      docUrl: "https://immersive-translate.owenyoung.com/services/volcano",
-      allProps: [
-        {
-          name: "accessKeyId",
-          required: !0,
-          type: "text"
-        },
-        {
-          name: "secretAccessKey",
-          required: !0,
-          type: "password"
-        }
-      ]
-    },
-    caiyun: {
-      name: "Caiyun",
-      homepage: "https://fanyi.caiyunapp.com/",
-      docUrl: "https://immersive-translate.owenyoung.com/services/caiyun",
-      allProps: [
-        {
-          name: "token",
-          required: !0,
-          type: "password"
-        }
-      ]
-    },
-    cai: {
-      name: "Cai",
-      homepage: "https://fanyi.caiyunapp.com/",
-      alpha: !0
     },
     mock: {
       name: "Mock",
@@ -6018,30 +5760,6 @@ body {
       name: "TenAlpha",
       homepage: "https://fanyi.qq.com/",
       alpha: !0
-    },
-    you: {
-      name: "You",
-      alpha: !0,
-      homepage: "https://immersive-translate.owenyoung.com/services/youdao"
-    },
-    openl: {
-      name: "Openl",
-      homepage: "https://openl.club/",
-      docUrl: "https://immersive-translate.owenyoung.com/services/openL",
-      allProps: [
-        ...openlProps,
-        {
-          type: "password",
-          name: "apikey",
-          required: !0
-        }
-      ],
-      props: openlProps
-    },
-    volcAlpha: {
-      name: "Volc Alpha",
-      alpha: !0,
-      homepage: "https://www.volcengine.com/"
     },
     d: {
       name: "D () ",
@@ -6063,18 +5781,6 @@ body {
           label: "API URL",
           required: !0,
           type: "text"
-        }
-      ]
-    },
-    niu: {
-      name: "niutrans",
-      homepage: "https://niutrans.com/",
-      docUrl: "https://immersive-translate.owenyoung.com/services/niu",
-      allProps: [
-        {
-          name: "APIKEY",
-          required: !0,
-          type: "password"
         }
       ]
     }
@@ -8872,27 +8578,11 @@ body {
       volcAlpha: {
         placeholderDelimiters: ["{", "}"]
       },
-      volc: {
-        placeholderDelimiters: ["{", "}"]
-      },
       tencent: {
         placeholderDelimiters: ["{", "}"]
       },
       transmart: {
         placeholderDelimiters: ["#", "#"]
-      },
-      baidu: {
-        placeholderDelimiters: ["#", "#"]
-      },
-      caiyun: {
-        placeholderDelimiters: ["{", "}"]
-      },
-      youdao: {
-        placeholderDelimiters: ["\u{1F6A0}", "\u{1F6A0}"]
-      },
-      deepl: {
-        immediateTranslationTextCountForImmersiveDeepl: 5e4,
-        placeholderDelimiters: ["{", "}"]
       },
       bing: {
         maxTextLengthPerRequest: 1800,
@@ -8906,55 +8596,6 @@ body {
       },
       papago: {
         placeholderDelimiters: ["{", "}"]
-      },
-      dpro: {
-        apiUrl: "https://api.deepl.com/jsonrpc"
-      },
-      openai: {
-        placeholderDelimiters: ["{{", "}}"],
-        immediateTranslationTextCount: 3e3,
-        translationDebounce: 300,
-        limit: 5,
-        interval: 1350,
-        maxTextGroupLengthPerRequest: 1,
-        prompt: `Translate the text to {{to}}:
-
-{{text}}`,
-        newlinePlaceholderDelimiters: [
-          `
-
--|`,
-          `|-
-
-`,
-          `
-?
-?-\\|\\d+\\|-
-?
-?`
-        ]
-      },
-      chatgpt: {
-        placeholderDelimiters: ["{{", "}}"],
-        immediateTranslationTextCount: 2e3,
-        maxTextGroupLengthPerRequest: 1,
-        maxTextLengthPerRequest: 2e3,
-        prompt: `Translate the text to {{to}}:
-
-{{text}}`,
-        newlinePlaceholderDelimiters: [
-          `
-
--|`,
-          `|-
-
-`,
-          `
-?
-?-\\|\\d+\\|-
-?
-?`
-        ]
       }
     },
     shortcuts: {
@@ -13459,18 +13100,11 @@ ${injectedCss}}
   // rate_limiter_bus.ts
   var defaultLimiter = new RateLimiter({ limit: 7, interval: 1250 }), limiterMap = {
     tencent: new RateLimiter({ limit: 3, interval: 1350 }),
-    baidu: new RateLimiter({ limit: 1, interval: 1550 }),
     strict: new RateLimiter({ limit: 1, interval: 1050 }),
     d: new RateLimiter({ limit: 1, interval: 1050 }),
-    youdao: new RateLimiter({ limit: 5, interval: 1050 }),
-    you: new RateLimiter({ limit: 5, interval: 1050 }),
-    cai: new RateLimiter({ limit: 5, interval: 1050 }),
     google: new RateLimiter({ limit: 10, interval: 1050 }),
-    deepl: new RateLimiter({ limit: 10, interval: 1050 }),
     transmart: new RateLimiter({ limit: 30, interval: 1050 }),
-    papago: new RateLimiter({ limit: 3, interval: 1150 }),
-    openai: new RateLimiter({ limit: 5, interval: 1300 }),
-    chatgpt: new RateLimiter({ limit: 1, interval: 1350 })
+    papago: new RateLimiter({ limit: 3, interval: 1150 })
   };
   function getLimiter(key) {
     return limiterMap[key] || defaultLimiter;
@@ -17068,25 +16702,12 @@ ${injectedCss}}
     mock2: Mock,
     google: Google,
     transmart: Transmart,
-    deepl: deepl_default,
-    volc: mod_default,
-    volcAlpha: VolcAlpha,
     bing: Bing,
     tencent: Tencent,
     tenAlpha: TenAlpha,
-    baidu: baidu_default,
-    caiyun: caiyun_default,
-    cai: cai_default,
-    openl: openl_default,
-    youdao: youdao_default,
-    you: you_default,
     d: D5,
     dpro: D5,
     deeplx: Deeplx,
-    niu: niu_default,
-    azure: azure_default,
-    openai: openai_default,
-    chatgpt: ChatGPT,
     papago: papago_default
   }, TranslationServices = {};
   Object.keys(PureTranslationServices).forEach((key) => {
@@ -19993,58 +19614,7 @@ ${injectedCss}}
             )
           })
         ] }) : /* @__PURE__ */ p5("span", {}),
-        /* @__PURE__ */ p5(
-          SelectDropDown,
-          {
-            label: t4("more"),
-            showArrow: !0,
-            onSelected: (item) => {
-              item.value === "translateTheWholePage" ? onTranslateTheWholePage() : item.value === "translateToThePageEndImmediately" ? ontranslateToThePageEndImmediately() : item.value === "translateTheMainPage" ? onTranslateTheMainPage() : item.value === "showTranslationOnly" || (item.value === "translateLocalPdfFile" ? onTranslateLocalPdfFile && onTranslateLocalPdfFile() : item.value === "translateLocalHtmlFile" ? onTranslateLocalHtmlFile && onTranslateLocalHtmlFile() : item.value === "translateLocalSubtitleFile" ? onTranslateLocalSubtitleFile && onTranslateLocalSubtitleFile() : item.value === "donate" ? (globalThis.open(config.donateUrl), onClose()) : item.value === "feedback" ? (globalThis.open(config.feedbackUrl), onClose()) : item.value === "options" ? (openOptionsPage3(), onClose()) : item.value === "changeToTranslateTheWholePage" ? handleChangeToTranslateTheWholePage() : item.value === "changeToTranslateTheMainPage" ? handleChangeToTranslateTheMainPage() : item.value === "about" ? openAboutPage3() : item.value === "toggleEnabled" ? onToggleEnabled() : item.value === "openEbookViewer" ? openEbookViewerPage3() : item.value === "openEbookBuilder" && openEbookBuilderPage3());
-            },
-            menus: [
-              config.translationArea === "main" && {
-                label: "\u{1F480} " + t4("changeToTranslateTheWholePage"),
-                value: "changeToTranslateTheWholePage"
-              },
-              config.translationArea === "body" && {
-                label: "\u{1F4D6} " + t4("changeToTranslateTheMainPage"),
-                value: "changeToTranslateTheMainPage"
-              },
-              {
-                label: "\u26A1 " + translateToThePageEndImmediatelyLabel,
-                value: "translateToThePageEndImmediately"
-              },
-              {
-                label: "\u{1F4D8} " + t4("browser.openEbookViewer"),
-                value: "openEbookViewer"
-              },
-              {
-                label: "\u{1F4DA} " + t4("browser.openEbookBuilder"),
-                value: "openEbookBuilder"
-              },
-              !isMonkey() && {
-                label: "\u{1F4C1} " + t4("browser.translateLocalPdfFile"),
-                value: "translateLocalPdfFile"
-              },
-              !isMonkey() && {
-                label: "\u{1F310} " + t4("browser.translateLocalHtmlFile"),
-                value: "translateLocalHtmlFile"
-              },
-              {
-                label: "\u{1F4FA} " + t4("browser.translateLocalSubtitleFile"),
-                value: "translateLocalSubtitleFile"
-              },
-              {
-                label: (config.enabled ? "\u{1F6AB} " : "\u{1F44B} ") + (config.enabled ? t4("clickToDisableExtension") : t4("clickToEnableExtension")),
-                value: "toggleEnabled"
-              },
-              {
-                label: "\u2764\uFE0F " + t4(isShowPricing ? "aboutLabel" : "aboutLabelWithoutSponsor"),
-                value: "about"
-              }
-            ].filter(Boolean)
-          }
-        )
+        /* @__PURE__ */ p5("span", {})
       ] }),
       /* @__PURE__ */ p5("div", { class: "text-sm", children: message }),
       /* @__PURE__ */ p5("div", { class: "text-sm", children: errorMessage }),
@@ -20057,7 +19627,6 @@ ${injectedCss}}
           }
         ),
         /* @__PURE__ */ p5("div", { class: "mt-3 text-sm flex justify-between", children: [
-          /* @__PURE__ */ p5("a", { href: "#", class: "secondary", onClick: handleOpenOptions, children: t4("options") }),
           isMonkey() && /* @__PURE__ */ p5("a", { href: "#", class: "secondary", onClick: handleClosePopup, children: t4("close") }),
           /* @__PURE__ */ p5(
             "span",
