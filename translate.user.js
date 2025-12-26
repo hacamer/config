@@ -8578,27 +8578,11 @@ body {
       volcAlpha: {
         placeholderDelimiters: ["{", "}"]
       },
-      volc: {
-        placeholderDelimiters: ["{", "}"]
-      },
       tencent: {
         placeholderDelimiters: ["{", "}"]
       },
       transmart: {
         placeholderDelimiters: ["#", "#"]
-      },
-      baidu: {
-        placeholderDelimiters: ["#", "#"]
-      },
-      caiyun: {
-        placeholderDelimiters: ["{", "}"]
-      },
-      youdao: {
-        placeholderDelimiters: ["\u{1F6A0}", "\u{1F6A0}"]
-      },
-      deepl: {
-        immediateTranslationTextCountForImmersiveDeepl: 5e4,
-        placeholderDelimiters: ["{", "}"]
       },
       bing: {
         maxTextLengthPerRequest: 1800,
@@ -8612,55 +8596,6 @@ body {
       },
       papago: {
         placeholderDelimiters: ["{", "}"]
-      },
-      dpro: {
-        apiUrl: "https://api.deepl.com/jsonrpc"
-      },
-      openai: {
-        placeholderDelimiters: ["{{", "}}"],
-        immediateTranslationTextCount: 3e3,
-        translationDebounce: 300,
-        limit: 5,
-        interval: 1350,
-        maxTextGroupLengthPerRequest: 1,
-        prompt: `Translate the text to {{to}}:
-
-{{text}}`,
-        newlinePlaceholderDelimiters: [
-          `
-
--|`,
-          `|-
-
-`,
-          `
-?
-?-\\|\\d+\\|-
-?
-?`
-        ]
-      },
-      chatgpt: {
-        placeholderDelimiters: ["{{", "}}"],
-        immediateTranslationTextCount: 2e3,
-        maxTextGroupLengthPerRequest: 1,
-        maxTextLengthPerRequest: 2e3,
-        prompt: `Translate the text to {{to}}:
-
-{{text}}`,
-        newlinePlaceholderDelimiters: [
-          `
-
--|`,
-          `|-
-
-`,
-          `
-?
-?-\\|\\d+\\|-
-?
-?`
-        ]
       }
     },
     shortcuts: {
@@ -13165,18 +13100,11 @@ ${injectedCss}}
   // rate_limiter_bus.ts
   var defaultLimiter = new RateLimiter({ limit: 7, interval: 1250 }), limiterMap = {
     tencent: new RateLimiter({ limit: 3, interval: 1350 }),
-    baidu: new RateLimiter({ limit: 1, interval: 1550 }),
     strict: new RateLimiter({ limit: 1, interval: 1050 }),
     d: new RateLimiter({ limit: 1, interval: 1050 }),
-    youdao: new RateLimiter({ limit: 5, interval: 1050 }),
-    you: new RateLimiter({ limit: 5, interval: 1050 }),
-    cai: new RateLimiter({ limit: 5, interval: 1050 }),
     google: new RateLimiter({ limit: 10, interval: 1050 }),
-    deepl: new RateLimiter({ limit: 10, interval: 1050 }),
     transmart: new RateLimiter({ limit: 30, interval: 1050 }),
-    papago: new RateLimiter({ limit: 3, interval: 1150 }),
-    openai: new RateLimiter({ limit: 5, interval: 1300 }),
-    chatgpt: new RateLimiter({ limit: 1, interval: 1350 })
+    papago: new RateLimiter({ limit: 3, interval: 1150 })
   };
   function getLimiter(key) {
     return limiterMap[key] || defaultLimiter;
