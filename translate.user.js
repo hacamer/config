@@ -5739,10 +5739,6 @@ body {
       name: "Google",
       homepage: "https://translate.google.com/"
     },
-    transmart: {
-      name: "Transmart",
-      homepage: "https://transmart.qq.com/"
-    },
     papago: {
       name: "Papago",
       homepage: "https://translate.google.com/",
@@ -8580,9 +8576,6 @@ body {
       },
       tencent: {
         placeholderDelimiters: ["{", "}"]
-      },
-      transmart: {
-        placeholderDelimiters: ["#", "#"]
       },
       bing: {
         maxTextLengthPerRequest: 1800,
