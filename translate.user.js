@@ -5701,20 +5701,12 @@ body {
       type: "select",
       name: "codename",
       labelKey: "field.translationEngine",
-      default: "youdao",
+      default: "google",
       required: !1,
       options: [
         {
           label: "translationServices.google",
           value: "google"
-        },
-        {
-          label: "translationServices.deepl",
-          value: "deepl"
-        },
-        {
-          label: "translationServices.youdao",
-          value: "youdao"
         },
         {
           label: "translationServices.tencent",
@@ -5725,24 +5717,12 @@ body {
           value: "aliyun"
         },
         {
-          label: "translationServices.baidu",
-          value: "baidu"
-        },
-        {
-          label: "translationServices.caiyun",
-          value: "caiyun"
-        },
-        {
           label: "translationServices.wechat",
           value: "wechat"
         },
         {
           label: "translationServices.ibm",
           value: "ibm"
-        },
-        {
-          label: "translationServices.azure",
-          value: "azure"
         },
         {
           label: "translationServices.aws",
@@ -5759,221 +5739,14 @@ body {
       name: "Google",
       homepage: "https://translate.google.com/"
     },
-    deepl: {
-      name: "DeepL",
-      homepage: "https://www.deepl.com/translator",
-      docUrl: "https://immersive-translate.owenyoung.com/services/deepL",
-      allProps: [
-        {
-          name: "authKey",
-          label: "Auth Key",
-          required: !0,
-          type: "password"
-        }
-      ]
-    },
     transmart: {
       name: "Transmart",
       homepage: "https://transmart.qq.com/"
-    },
-    openai: {
-      name: "Open AI",
-      homepage: "https://openai.com/api/",
-      docUrl: "https://immersive-translate.owenyoung.com/services/openai",
-      allProps: [
-        {
-          name: "APIKEY",
-          required: !0,
-          type: "password"
-        },
-        {
-          name: "model",
-          labelKey: "field.model",
-          descriptionKey: "description.model",
-          required: !1,
-          type: "select",
-          default: "gpt-3.5-turbo",
-          options: [
-            {
-              label: "gpt-3.5-turbo",
-              value: "gpt-3.5-turbo"
-            },
-            {
-              label: "gpt-4",
-              value: "gpt-4"
-            }
-          ]
-        },
-        {
-          name: "limit",
-          required: !1,
-          labelKey: "field.limitPerSecond",
-          descriptionKey: "description.limitPerSecond",
-          descriptionLink1: "https://immersive-translate.owenyoung.com/services/openai",
-          type: "number",
-          default: 5
-        },
-        {
-          name: "maxTextLengthPerRequest",
-          required: !1,
-          labelKey: "field.maxTextLengthPerRequest",
-          descriptionKey: "description.maxTextLengthPerRequest",
-          type: "number",
-          default: 1200,
-          optional: !0
-        },
-        {
-          name: "maxTextGroupLengthPerRequest",
-          required: !1,
-          labelKey: "field.maxTextGroupLengthPerRequest",
-          descriptionKey: "description.maxTextGroupLengthPerRequest",
-          type: "number",
-          default: 1,
-          optional: !0
-        },
-        {
-          name: "apiUrl",
-          labelKey: "field.apiUrl",
-          required: !1,
-          type: "text",
-          default: "https://api.openai.com/v1/chat/completions",
-          descriptionKey: "description.apiUrl",
-          optional: !0
-        },
-        {
-          name: "systemPrompt",
-          label: "System Prompt",
-          required: !1,
-          descriptionKey: "description.systemPrompt",
-          type: "text",
-          optional: !0,
-          default: "You are a translation engine, you can only translate text and cannot interpret it, and do not explain."
-        },
-        {
-          name: "prompt",
-          label: "Prompt",
-          required: !1,
-          descriptionKey: "description.prompt",
-          type: "textarea",
-          default: `Translate the text below to {{to}}:
-
-{{text}}`,
-          optional: !0
-        }
-      ]
-    },
-    chatgpt: {
-      name: "ChatGPT Plus",
-      homepage: "https://chat.openai.com",
-      beta: !0
-    },
-    youdao: {
-      name: "Youdao",
-      homepage: "https://immersive-translate.owenyoung.com/services/youdao",
-      docUrl: "https://immersive-translate.owenyoung.com/services/youdao",
-      allProps: [
-        {
-          name: "appId",
-          required: !0,
-          type: "text"
-        },
-        {
-          name: "appSecret",
-          required: !0,
-          type: "password"
-        }
-      ]
-    },
-    tencent: {
-      name: "Tencent",
-      homepage: "https://fanyi.qq.com/",
-      docUrl: "https://immersive-translate.owenyoung.com/services/tencent",
-      allProps: [
-        {
-          name: "secretId",
-          required: !0,
-          type: "text"
-        },
-        {
-          name: "secretKey",
-          required: !0,
-          type: "password"
-        }
-      ]
-    },
-    azure: {
-      name: "azure",
-      homepage: "https://learn.microsoft.com/en-us/azure/cognitive-services/translator/text-translation-overview",
-      docUrl: "https://immersive-translate.owenyoung.com/services/azure",
-      allProps: [
-        {
-          name: "region",
-          required: !0,
-          default: "eastasia",
-          type: "text"
-        },
-        {
-          name: "APIKEY",
-          required: !0,
-          type: "password"
-        }
-      ]
     },
     papago: {
       name: "Papago",
       homepage: "https://translate.google.com/",
       canary: !0
-    },
-    baidu: {
-      name: "Baidu",
-      homepage: "https://fanyi.baidu.com/",
-      docUrl: "https://immersive-translate.owenyoung.com/services/baidu",
-      allProps: [
-        {
-          name: "appid",
-          required: !0,
-          type: "text"
-        },
-        {
-          name: "key",
-          required: !0,
-          type: "password"
-        }
-      ]
-    },
-    volc: {
-      name: "Volc",
-      homepage: "https://www.volcengine.com/",
-      docUrl: "https://immersive-translate.owenyoung.com/services/volcano",
-      allProps: [
-        {
-          name: "accessKeyId",
-          required: !0,
-          type: "text"
-        },
-        {
-          name: "secretAccessKey",
-          required: !0,
-          type: "password"
-        }
-      ]
-    },
-    caiyun: {
-      name: "Caiyun",
-      homepage: "https://fanyi.caiyunapp.com/",
-      docUrl: "https://immersive-translate.owenyoung.com/services/caiyun",
-      allProps: [
-        {
-          name: "token",
-          required: !0,
-          type: "password"
-        }
-      ]
-    },
-    cai: {
-      name: "Cai",
-      homepage: "https://fanyi.caiyunapp.com/",
-      alpha: !0
     },
     mock: {
       name: "Mock",
@@ -5987,30 +5760,6 @@ body {
       name: "TenAlpha",
       homepage: "https://fanyi.qq.com/",
       alpha: !0
-    },
-    you: {
-      name: "You",
-      alpha: !0,
-      homepage: "https://immersive-translate.owenyoung.com/services/youdao"
-    },
-    openl: {
-      name: "Openl",
-      homepage: "https://openl.club/",
-      docUrl: "https://immersive-translate.owenyoung.com/services/openL",
-      allProps: [
-        ...openlProps,
-        {
-          type: "password",
-          name: "apikey",
-          required: !0
-        }
-      ],
-      props: openlProps
-    },
-    volcAlpha: {
-      name: "Volc Alpha",
-      alpha: !0,
-      homepage: "https://www.volcengine.com/"
     },
     d: {
       name: "D () ",
@@ -6032,18 +5781,6 @@ body {
           label: "API URL",
           required: !0,
           type: "text"
-        }
-      ]
-    },
-    niu: {
-      name: "niutrans",
-      homepage: "https://niutrans.com/",
-      docUrl: "https://immersive-translate.owenyoung.com/services/niu",
-      allProps: [
-        {
-          name: "APIKEY",
-          required: !0,
-          type: "password"
         }
       ]
     }
@@ -17037,25 +16774,12 @@ ${injectedCss}}
     mock2: Mock,
     google: Google,
     transmart: Transmart,
-    deepl: deepl_default,
-    volc: mod_default,
-    volcAlpha: VolcAlpha,
     bing: Bing,
     tencent: Tencent,
     tenAlpha: TenAlpha,
-    baidu: baidu_default,
-    caiyun: caiyun_default,
-    cai: cai_default,
-    openl: openl_default,
-    youdao: youdao_default,
-    you: you_default,
     d: D5,
     dpro: D5,
     deeplx: Deeplx,
-    niu: niu_default,
-    azure: azure_default,
-    openai: openai_default,
-    chatgpt: ChatGPT,
     papago: papago_default
   }, TranslationServices = {};
   Object.keys(PureTranslationServices).forEach((key) => {
